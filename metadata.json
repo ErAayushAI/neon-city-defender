@@ -1,0 +1,6 @@
+{
+  "name": "Neon City Defender",
+  "description": "A fast-paced 2D cyberpunk top-down city defense arcade game featuring drone combat, boss encounters, smart city infrastructure protection, synthesized Web Audio, and particle physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
