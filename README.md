@@ -2,6 +2,11 @@
 
 A fast-paced, 2D top-down cyberpunk smart city defense browser game built with **React**, **TypeScript**, **HTML5 Canvas**, and the **Web Audio API**.
 
+<p align="center">
+  <a href="https://neon-city-defender.vercel.app/">Live Demo</a> •
+</p>
+
+
 ---
 
 ## 🎮 Game Concept & Lore
